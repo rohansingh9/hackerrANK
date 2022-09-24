@@ -1,5 +1,7 @@
-# hackerrANK
+ hackerrANK
 //day 2 operators hackerrank solution challenge ?problem 
+
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
